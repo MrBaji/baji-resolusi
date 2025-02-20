@@ -1,2 +1,3 @@
-- Menguasai Frontend Development
+- Menguasai Frontend Development Baru setengah
 - Menguasai Backed Development
+- Memperdalam Cyber Security (Khusus Web & Network Security)
